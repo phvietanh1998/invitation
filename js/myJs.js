@@ -11,7 +11,7 @@ const textConfig = {
   text10: 'Tớ biết mà ^^ Tớ cũm thik cậu =)))',
   text11:
     'Vậy thì dành buổi tối t7 tuần này cho t nha t có chuyện muốn thưa với cậu =))))',
-  text12: 'Okii lunn <3',
+  text12: 'Thả cho t 1 like để confirm nha <3',
 };
 
 $(document).ready(function () {
