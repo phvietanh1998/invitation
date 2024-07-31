@@ -138,7 +138,8 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: '#83d0c9',
           onClose: () => {
-            window.location = 'https://www.facebook.com/pham.vietanh.3950';
+            window.location =
+              'https://www.facebook.com/photo.php?fbid=364788060331304&set=pb.100004003395800.-2207520000&type=3';
           },
         });
       }
